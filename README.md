@@ -5,8 +5,8 @@
 * [Dedication](#dedication)
 * [Side A Explanation](#side-a-explanation)
 * [Side B Explanation](#side-b-explanation)
-
-
+---
+---
 # Song List
 ||SIDE A| |SIDE B| |
 |:-|:-:|:-:|:-:|:-:
@@ -22,10 +22,12 @@
 9||                                                                                  |Bob Seger: Old Time Rock and Roll|3:14
 10||                                                                                  |Marc Broussard: Home|5:03
 11||                                                                                  |Waylon Jennings: Luckenbach, Texas|3:20
-
+---
+---
 # Cover
 ![alt text](https://github.com/CoralRocker/Mixtape-Project-Amstud/blob/master/AmstudCover_Colored_Cropped.jpg "Under An Old Oak Cover Art")
-
+---
+---
 # Dedication
 ---
 ---
@@ -56,6 +58,8 @@
 |Life In The Fast Lane - 2013 Remaster|This famous song by the Eagles is calmer than the previous song, yet belongs here to serve as a transition between the high intensity of CCR's Travelin' Band and the calmer, more melodious Burnin' For You.|
 |Spirit In The Sky|This one-hit-wonder from ironically jewish singer Norman Greenbaum completes the downhill slope in energy in the playlist. The song serves a low point in volume for the playlist. The song somewhat represents the break that most people take while they work on a project, between the first hard period of work, and the last final push to the end.|
 |Superstition|After the aforementioned slow point in the mixtape, this song serves as a crescendo in energy, one which ends with Bob Seger's hit Old Time Rock & Roll.|
+|All Along The Watchtower|The sweet guitar played by Hendrix in this song is great for working to and, personally, energizes me greatly.|
+
 ---
 ---
 [Return To Top](#mixtape-project-amstud)
