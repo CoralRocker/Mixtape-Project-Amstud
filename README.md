@@ -28,6 +28,7 @@
 
 # Dedication
 ---
+---
 # Side A Explanation
 [Spotify Playlist For Side A](https://open.spotify.com/user/gotzegot/playlist/3oRICn2S8WGJYFny1HsOcc?si=X4KMfBtRRyOrn5HA-WuMAw "Side A")
 ### As A Whole
@@ -42,6 +43,7 @@
 |Hungarian Dance No. 5 G minor|In comparison to the grandeur of the previous two pieces in the mixtape, this piece might feel a bit lacking in power, but what it lacks in power and awe-factor, this piece makes up for in catchiness and how lively it is. Its transition from Mendelssohn's 3rd symphony is admittedly not the smoothest, as the two pieces share very different styles, but it is important in its placement as it is the song that signals the nearing of the end of the mixtape, and putting another Romantic-era song in its place would not be fitting.
 |St. Paul's Suite: IV Allegro|This is one of the pieces that my orchestra is playing for our next concert, so there is definetely a personal connection between the piece and I. However, it follows Brahms' Hungarian Dance No. 5 well, as it follows closely in its composition. However, this piece is a finale to a suite and as such is good piece to end the mixtape with.
 ---
+---
 # Side B Explanation
 [Spotify Playlist For Side B](https://open.spotify.com/user/gotzegot/playlist/0JsDuC88Q0HQfdY357hCXE?si=n6guP2aTSbiCghIPILiq-Q "Side B")
 ### As A Whole
@@ -52,4 +54,5 @@
 |Baba O'Riley|Baba O'Riley is a good song to start the mixtape with because it is not particularly fast and energetic. It starts the playlist off at a moderate tempo, which leaves room for later songs to speed up. In spite of its relatively slow speed, it still is energetic, and it has a solid driving beat from its guitar and background synth.|
 |Travelin' Band|This song is significantly more energetic than Baba O'Riley and is a fun song to do some outdoors work to.
 |Life In The Fast Lane - 2013 Remaster|
+---
 ---
