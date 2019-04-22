@@ -13,3 +13,6 @@
 ||                                                                                  |Bob Seger: Old Time Rock and Roll|3:14
 ||                                                                                  |Marc Broussard: Home|5:03
 ||                                                                                  |Waylon Jennings: Luckenbach, Texas|3:20
+
+# Cover
+![alt text](https://github.com/CoralRocker/Mixtape-Project-Amstud/
