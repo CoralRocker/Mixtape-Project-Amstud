@@ -1,4 +1,13 @@
 # Mixtape-Project-Amstud
+# Table Of Contents
+* [Song List](#song-list)
+* [Cover](#cover)
+* [Dedication](#dedication)
+* [Side A Explanation](#side-a-explanation)
+* [Side B Explanation](#side-b-explanation)
+
+
+# Song List
 ||SIDE A| |SIDE B| |
 |:-|:-:|:-:|:-:|:-:
 |Number|Artist: Title|Length|Artist: Title|Length                                                
