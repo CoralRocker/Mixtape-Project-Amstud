@@ -59,6 +59,8 @@
 |Spirit In The Sky|This one-hit-wonder from ironically jewish singer Norman Greenbaum completes the downhill slope in energy in the playlist. The song serves a low point in volume for the playlist. The song somewhat represents the break that most people take while they work on a project, between the first hard period of work, and the last final push to the end.|
 |Superstition|After the aforementioned slow point in the mixtape, this song serves as a crescendo in energy, one which ends with Bob Seger's hit Old Time Rock & Roll.|
 |All Along The Watchtower|The sweet guitar played by Hendrix in this song is great for working to and, personally, energizes me greatly.|
+|
+
 
 ---
 ---
