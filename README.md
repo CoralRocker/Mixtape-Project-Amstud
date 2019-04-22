@@ -15,4 +15,4 @@
 ||                                                                                  |Waylon Jennings: Luckenbach, Texas|3:20
 
 # Cover
-![alt text](https://github.com/CoralRocker/Mixtape-Project-Amstud/
+![alt text](https://github.com/CoralRocker/Mixtape-Project-Amstud/blob/master/AmstudCover_Colored_Cropped.jpg "Under An Old Oak Cover Art")
