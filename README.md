@@ -18,7 +18,7 @@
 5|Brahms: Hungarian Dance No. 5 G minor|2:18                                           |Stevie Wonder: Superstition|4:05
 6|Holst: St. Paul's Suite: IV Allegro|3:35                                            |Norman Greenbaum: Spirit In The Sky|4:02                                          
 7||                                                                                  |Jimi Hendrix: All Along The Watchtower|4:00
-8||                                                                                  |Dire Straits: Sultans Of Swing|5:50
+8||                                                                                  |Deep Purple: Smoke On The Water|5:42
 9||                                                                                  |Bob Seger: Old Time Rock and Roll|3:14
 10||                                                                                  |Marc Broussard: Home|5:03
 11||                                                                                  |Waylon Jennings: Luckenbach, Texas|3:20
@@ -47,12 +47,14 @@
 # Side B Explanation
 [Spotify Playlist For Side B](https://open.spotify.com/user/gotzegot/playlist/0JsDuC88Q0HQfdY357hCXE?si=n6guP2aTSbiCghIPILiq-Q "Side B")
 ### As A Whole
-  This side of the mixtape is for when I want to do something fun, or I simply want to listen to some fun and energetic songs. Most of the songs a rock songs from the 60s, 70s, and 80s, but there are a few country songs mixed in, so long as they're upbeat.
+  This side of the mixtape is for when someone wants to do something fun, work outside, or simply listen to some fun and energetic songs. Most of the songs a rock songs from the 60s, 70s, and 80s, but there are a few country songs mixed in, so long as they're upbeat. The playlist has very little deep significance to me, and serves a purely entertainment-based role in my day-to-day life. 
 ### Song-By-Song
 |Song|Reasoning|
 |:-:|:-|
 |Baba O'Riley|Baba O'Riley is a good song to start the mixtape with because it is not particularly fast and energetic. It starts the playlist off at a moderate tempo, which leaves room for later songs to speed up. In spite of its relatively slow speed, it still is energetic, and it has a solid driving beat from its guitar and background synth.|
 |Travelin' Band|This song is significantly more energetic than Baba O'Riley and is a fun song to do some outdoors work to.
-|Life In The Fast Lane - 2013 Remaster|
+|Life In The Fast Lane - 2013 Remaster|This famous song by the Eagles is calmer than the previous song, yet belongs here to serve as a transition between the high intensity of CCR's Travelin' Band and the calmer, more melodious Burnin' For You.|
+|Spirit In The Sky|This one-hit-wonder from ironically jewish singer Norman Greenbaum completes the downhill slope in energy in the playlist. The song serves a low point in volume for the playlist. The song somewhat represents the break that most people take while they work on a project, between the first hard period of work, and the last final push to the end.|
+|Superstition|After the aforementioned slow point in the mixtape, this song serves as a crescendo in energy, one which ends with Bob Seger's hit Old Time Rock & Roll.|
 ---
 ---
