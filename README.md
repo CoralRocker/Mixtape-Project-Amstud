@@ -45,9 +45,11 @@
 # Side B Explanation
 [Spotify Playlist For Side B](https://open.spotify.com/user/gotzegot/playlist/0JsDuC88Q0HQfdY357hCXE?si=n6guP2aTSbiCghIPILiq-Q "Side B")
 ### As A Whole
+  This side of the mixtape is for when I want to do something fun, or I simply want to listen to some fun and energetic songs. Most of the songs a rock songs from the 60s, 70s, and 80s, but there are a few country songs mixed in, so long as they're upbeat.
+### Song-By-Song
 |Song|Reasoning|
 |:-:|:-|
-|Baba O'Riley||
-|Travelin' Band|
-### Song-By-Song
+|Baba O'Riley|Baba O'Riley is a good song to start the mixtape with because it is not particularly fast and energetic. It starts the playlist off at a moderate tempo, which leaves room for later songs to speed up. In spite of its relatively slow speed, it still is energetic, and it has a solid driving beat from its guitar and background synth.|
+|Travelin' Band|This song is significantly more energetic than Baba O'Riley and is a fun song to do some outdoors work to.
+|Life In The Fast Lane - 2013 Remaster|
 ---
