@@ -11,17 +11,18 @@
 ||SIDE A| |SIDE B| |
 |:-|:-:|:-:|:-:|:-:
 |Number|Artist: Title|Length|Artist: Title|Length                                                
-1|Paganini: Concerto No. 2 B minor Op. 7: III Rondo|8:43                              |The Who: Baba O'Riley|5:00
-2|Mendelssohn: Violin Concerto E minor Op. 64: I Allegro|12:54                        |Creedence Clearwater Revival: Travelin' Band|2:07
-3|Sibilius: Violin Concerto D minor, Op. 47: III Allegro, ma non tanto|7:34           |Eagles: Life In The Fast Lane - 2013 Remaster|4:46
-4|Mendelssohn: Symphony No. 3 A minor, Op. 56 MWV N 18: IV Allegro Maestoso Assai|9:36|Blue Öyster Cult: Burning For You|4:31
-5|Brahms: Hungarian Dance No. 5 G minor|2:18                                           |Stevie Wonder: Superstition|4:05
-6|Holst: St. Paul's Suite: IV Allegro|3:35                                            |Norman Greenbaum: Spirit In The Sky|4:02                                          
-7||                                                                                  |Jimi Hendrix: All Along The Watchtower|4:00
-8||                                                                                  |Deep Purple: Smoke On The Water|5:42
-9||                                                                                  |Bob Seger: Old Time Rock and Roll|3:14
-10||                                                                                  |Marc Broussard: Home|5:03
-11||                                                                                  |Waylon Jennings: Luckenbach, Texas|3:20
+|1|Paganini: Concerto No. 2 B minor Op. 7: III Rondo|8:43                              |The Who: Baba O'Riley|5:00
+|2|Mendelssohn: Violin Concerto E minor Op. 64: I Allegro|12:54                        |Creedence Clearwater Revival: Travelin' Band|2:07
+|3|Sibilius: Violin Concerto D minor, Op. 47: III Allegro, ma non tanto|7:34           |Eagles: Life In The Fast Lane - 2013 Remaster|4:46
+|4|Mendelssohn: Symphony No. 3 A minor, Op. 56 MWV N 18: IV Allegro Maestoso Assai|9:36|Blue Öyster Cult: Burning For You|4:31
+|5|Brahms: Hungarian Dance No. 5 G minor|2:18                                           |Stevie Wonder: Superstition|4:05
+|6|Holst: St. Paul's Suite: IV Allegro|3:35                                            |Norman Greenbaum: Spirit In The Sky|4:02                                          
+|7||                                                                                  |Jimi Hendrix: All Along The Watchtower|4:00
+|8||                                                                                  |Deep Purple: Smoke On The Water|5:42
+|9||                                                                                  |Bob Seger: Old Time Rock and Roll|3:14
+|10||                                                                                  |Marc Broussard: Home|5:03
+|11||                                                                                  |Waylon Jennings: Luckenbach, Texas|3:20
+
 ---
 ---
 # Cover
@@ -59,7 +60,7 @@
 |Spirit In The Sky|This one-hit-wonder from ironically jewish singer Norman Greenbaum completes the downhill slope in energy in the playlist. The song serves a low point in volume for the playlist. The song somewhat represents the break that most people take while they work on a project, between the first hard period of work, and the last final push to the end.|
 |Superstition|After the aforementioned slow point in the mixtape, this song serves as a crescendo in energy, one which ends with Bob Seger's hit Old Time Rock & Roll.|
 |All Along The Watchtower|The sweet guitar played by Hendrix in this song is great for working to and, personally, energizes me greatly.|
-|
+|Smoke On The Water|
 
 
 ---
