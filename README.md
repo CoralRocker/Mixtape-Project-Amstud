@@ -58,3 +58,4 @@
 |Superstition|After the aforementioned slow point in the mixtape, this song serves as a crescendo in energy, one which ends with Bob Seger's hit Old Time Rock & Roll.|
 ---
 ---
+[Return To Top](#mixtape-project-amstud)
