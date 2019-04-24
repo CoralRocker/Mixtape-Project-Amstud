@@ -30,6 +30,7 @@
 ---
 ---
 # Dedication
+This mixtape is dedicated to people who want a playlist that both helps them get work done and energizes them for the day, yet at the same time can help them relax and unwind after a stressfull day.
 ---
 ---
 # Side A Explanation
@@ -55,16 +56,16 @@
 |Song|Reasoning|
 |:-:|:-|
 |Baba O'Riley|Baba O'Riley is a good song to start the mixtape with because it is not particularly fast and energetic. It starts the playlist off at a moderate tempo, which leaves room for later songs to speed up. In spite of its relatively slow speed, it still is energetic, and it has a solid driving beat from its guitar and background synth.|
-|Travelin' Band|This song is significantly more energetic than Baba O'Riley and is a fun song to do some outdoors work to.
+|Travelin' Band|This song is significantly more energetic than Baba O'Riley and is a fun song to do some outdoors work to. Its placement is kind of random, but the only real thought that went into said placement was to put it after a song so that it could be a more energetic song than the previous, because I believe that that placement works better with the song's message|
 |Life In The Fast Lane - 2013 Remaster|This famous song by the Eagles is calmer than the previous song, yet belongs here to serve as a transition between the high intensity of CCR's Travelin' Band and the calmer, more melodious Burnin' For You.|
 |Burnin' For You|Blue Oyster cult's 1981 smash hit is a nod to Jack Kerouac's novel "On the road". In fact, the first 2 stanzas are pretty clearly a re-wording of a fictitious song that Kerouac wrote for his book. I relate to the song in the sense that it talks about knowing what you want but not being able to achieve it, despite working hard for it. I think almost everyone can relate to that, and thats why I put it in the playlist. As to why it's in this specific spot, I feel that about halfway into anything that we as people try to accomplish, be it listening to a playlist or a school project, we usually feel demoralized and kind of hopeless. This song's message of hope and perseverance I think really works well to fight this feeling.|
 |Spirit In The Sky|This one-hit-wonder from ironically jewish singer Norman Greenbaum completes the downhill slope in energy in the playlist. The song serves a low point in volume for the playlist. The song somewhat represents the break that most people take while they work on a project, between the first hard period of work, and the last final push to the end. The message that this song conveys about life is one that I agree with, and thats probably the second most important reason that I included the song on the playlist, after the fact that its a jam.|
 |Superstition|After the aforementioned slow point in the mixtape, this song serves as a crescendo in energy, one which ends with Bob Seger's hit Old Time Rock & Roll. Personally, I included the song in the playlist because I like it, and I believe that it serves that purpose pretty well.|
-|All Along The Watchtower||
-|Smoke On The Water|
-|Old Time Rock & Roll|
-|Home|
-|Luckenbach, Texas|
+|All Along The Watchtower|This song, along with the next one, serve as the last crest in this playlist's energy level and volume. The message to the song can be interpretted as Biblical in nature, alluding to the tower of Babel and Jesus' Disciples (the watchtower and the businessmen respectively). I agree with the message, and, completely ignoring the fact that Jimi Hendrix's cover of it is gold, I included it on the playlist for that reason. It's not placed as the last or one of the last songs on the playlist because I don't feel that its accusatory/warning message is a good one to end a playlist on.|
+|Smoke On The Water|This piece was interestingly enough written about itself. Whilst recording this piece, the hotel in which Deep Purple were staying burned down, and this song was written. The song has a really catchy guitar riff backing it, and the story it tells is very interesting. It fits well where it is because it tells a story of exitement, and I feel like it'll help energize the listener of the playlist before the playlist ends.|
+|Old Time Rock & Roll|This song, along with the next two, fit into the end of the playlist because they are all about reminiscing over an event that has come to pass or about going home. Thats not to say that the song doesn't have any personal connection to me (and in my opinion, modern society), because it does. To me, this song is about the degredation of things in the modern era, about how quality some things were in the "good ol' days", so to speak. |
+|Home|Home leads a pretty drastic change of style from the previous songs of the playlist, as it is country, in stark contrast to the other songs' rock n' roll. However, to me, my music of choice when ending a day of hard work is country, because it feels more "down to earth" than songs made by multi-millionaire rock artists. This is kind of hypocritical though, because most country stars a very wealthy. 
+|Luckenbach, Texas|This being the last piece on the playlist, I wanted to choose a song that was calm and relaxing in order to end the playlist on a quieter note. 
 
 ---
 ---
