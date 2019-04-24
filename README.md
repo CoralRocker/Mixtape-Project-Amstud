@@ -5,6 +5,7 @@
 * [Dedication](#dedication)
 * [Side A Explanation](#side-a-explanation)
 * [Side B Explanation](#side-b-explanation)
+
 ---
 ---
 # Song List
@@ -27,10 +28,13 @@
 ---
 # Cover
 ![alt text](https://github.com/CoralRocker/Mixtape-Project-Amstud/blob/master/AmstudCover_Colored_Cropped.jpg "Under An Old Oak Cover Art")
+
 ---
 ---
+
 # Dedication
-This mixtape is dedicated to people who want a playlist that both helps them get work done and energizes them for the day, yet at the same time can help them relax and unwind after a stressfull day.
+### This mixtape is dedicated to people who want a playlist that both helps them get work done and energizes them for the day, yet at the same time can help them relax and unwind after a stressfull day.
+
 ---
 ---
 # Side A Explanation
@@ -46,6 +50,7 @@ This mixtape is dedicated to people who want a playlist that both helps them get
 |Symphony No. 3 A minor Op. 56 MWV N 18: IV Allegro Maestoso Assai|This song once again follows in the footsteps of the previous songs on the playlist in that is a Romantic song. It is here on the mixtape for almost the same reason as the previous song, and achieves that purpose well. The image it displays is different from that of the previous song in that this song, to me, paints a scene with much more turmoil, perhaps one by the seaside, for instance. In any case, this song is perfectly suited for giving me energy when I don't feel well.
 |Hungarian Dance No. 5 G minor|In comparison to the grandeur of the previous two pieces in the mixtape, this piece might feel a bit lacking in power, but what it lacks in power and awe-factor, this piece makes up for in catchiness and how lively it is. Its transition from Mendelssohn's 3rd symphony is admittedly not the smoothest, as the two pieces share very different styles, but it is important in its placement as it is the song that signals the nearing of the end of the mixtape, and putting another Romantic-era song in its place would not be fitting.
 |St. Paul's Suite: IV Allegro|This is one of the pieces that my orchestra is playing for our next concert, so there is definetely a personal connection between the piece and I. However, it follows Brahms' Hungarian Dance No. 5 well, as it follows closely in its composition. However, this piece is a finale to a suite and as such is good piece to end the mixtape with.
+
 ---
 ---
 # Side B Explanation
